@@ -2,8 +2,7 @@
 
 Este projeto é uma aplicação simples em **React** que permite ao usuário **cadastrar** e **realizar login**.  
 Os dados são armazenados no **localStorage** (persistem após recarregar a página).  
-A interface foi estilizada para ter um visual moderno, com fundo em gradiente e painel central escuro.
-
+Ele foi desenvolvido para fins de estudos, demonstração em entrevistas técnicas com deploy no Vercel.
 ---
 
 ## 🚀 Tecnologias utilizadas
@@ -103,15 +102,6 @@ npm install -g vercel
 ```bash
 vercel
 ```
-
-### Opção 2: Deploy via GitHub (Recomendado)
-
-1. Faça push do código para o GitHub
-2. Acesse [vercel.com](https://vercel.com)
-3. Clique em "New Project"
-4. Importe seu repositório do GitHub
-5. A Vercel detectará automaticamente as configurações do Vite
-6. Clique em "Deploy"
 
 ✅ **Pronto! Seu projeto estará online em poucos segundos.**
 
