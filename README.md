@@ -19,7 +19,6 @@ Ele foi desenvolvido para fins de estudos, demonstração em entrevistas técnic
 - ✅ Login de usuário: valida email e senha cadastrados
 - ✅ Mensagens de feedback: informa se o login/cadastro foi bem-sucedido ou se houve erro
 - ✅ Alternância de modo: botão para trocar entre tela de login e tela de cadastro
-- ✅ Interface moderna: painel escuro centralizado com fundo em gradiente
 - ✅ Validação de email e senha
 
 ---
@@ -88,20 +87,6 @@ npm run preview
 ```
 
 ---
-
-## 🚀 Deploy na Vercel
-
-### Opção 1: Deploy via CLI
-
-1. Instale a CLI da Vercel:
-```bash
-npm install -g vercel
-```
-
-2. Faça o deploy:
-```bash
-vercel
-```
 
 ✅ **Pronto! Seu projeto estará online em poucos segundos.**
 
